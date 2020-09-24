@@ -1,0 +1,25 @@
+Customer;CustDescr;City;Salesorg;Country
+1000;Rocky Mountain Bikes;Denver;UW00;US
+2000;Big Apple Bikes;New York City;UE00;US
+3000;Philly Bikes;Philadelphia;UE00;US
+4000;Peachtree Bikes;Atlanta;UE00;US
+5000;Beantown Bikes;Boston;UE00;US
+6000;Windy City Bikes;Chicago;UE00;US
+7000;Furniture City Bikes;Grand Rapids;UE00;US
+8000;Motown Bikes;Detroit;UE00;US
+9000;SoCal Bikes;Irvine;UW00;US
+10000;Silicon Valley Bikes;Palo Alto;UW00;US
+11000;DC Bikes;Washington DC;UE00;US
+12000;Northwest Bikes ;Seattle;UW00;US
+18000;Drahtesel;Leipzig;DN00;DE
+16000;Capital Bikes;Berlin;DN00;DE
+21000;Ostseerad;Anklam;DN00;DE
+14000;Alster Cycling;Hamburg;DN00;DE
+23000;Red Light Bikes;Hamburg;DN00;DE
+17000;Cruiser Bikes;Hannover;DN00;DE
+24000;Velodrom;Magdeburg;DN00;DE
+19000;Fahrpott;Bochum;DN00;DE
+13000;Airport Bikes;Frankfurt;DS00;DE
+20000;Neckarrad;Heidelberg;DS00;DE
+22000;Raedlelland;Stuttgart;DS00;DE
+15000;Bavaria Bikes;Muenchen;DS00;DE
